@@ -34,7 +34,7 @@ body{
     align-items: center;
     width: 100%;
     height: auto; 
-    background: url(./img/backgraund-effect.svg);
+    background: url(../img/backgraund-effect.svg);
     background-color: #e9ded4;
 }
 
@@ -349,7 +349,7 @@ footer{
     height: 112px;
     margin-left: 5px;
     margin-top: 5px;
-    background: url(./img/backgraund-effect.svg);
+    background: url(../img/backgraund-effect.svg);
 }
 .section-stages__item-0-2 {
     background-color: #f5f2e8;
