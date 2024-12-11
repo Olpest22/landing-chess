@@ -572,7 +572,7 @@ footer{
     display: flex;
     width: 200%;
     white-space: nowrap; /* Запрещаем перенос строки */
-    animation: scrollText 180s linear infinite; /* Сделаем анимацию более плавной */
+    animation: scrollText 60s linear infinite; /* Сделаем анимацию более плавной */
 }
 
 .marquee__text {
@@ -594,7 +594,7 @@ footer{
         transform: translateX(0%); /* Начинаем с первой позиции */
     }
     100% {
-        transform: translateX(-500%); /* Прокручиваем на 100% ширины контейнера */
+        transform: translateX(-100%); /* Прокручиваем на 100% ширины контейнера */
     }
 }
 
