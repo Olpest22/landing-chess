@@ -34,7 +34,7 @@ body{
     align-items: center;
     width: 100%;
     height: auto; 
-    background: url(../img/backgraund-effect.svg);
+    background: url(./img/backgraund-effect.svg);
     background-color: #e9ded4;
 }
 
@@ -349,7 +349,7 @@ footer{
     height: 112px;
     margin-left: 5px;
     margin-top: 5px;
-    background: url(../img/backgraund-effect.svg);
+    background: url(./img/backgraund-effect.svg);
 }
 .section-stages__item-0-2 {
     background-color: #f5f2e8;
@@ -358,7 +358,7 @@ footer{
     height: 112px;
     margin-left: 5px;
     margin-top: 20px;
-    background: url(../img/backgraund-effect.svg);
+    background: url(./img/backgraund-effect.svg);
 }
 .section-stages__item-0-3 {
     background-color: #f5f2e8;
@@ -367,7 +367,7 @@ footer{
     height: 112px;
     margin-top: 5px;
     margin-left: 20px;
-    background: url(../img/backgraund-effect.svg);
+    background: url(./img/backgraund-effect.svg);
 }
 .section-stages__item-0-4 {
     background-color: #f5f2e8;
@@ -376,7 +376,7 @@ footer{
     height: 112px;
     margin-left: 20px;
     margin-top: 20px;
-    background: url(../img/backgraund-effect.svg);
+    background: url(./img/backgraund-effect.svg);
 }
 
 .section-stages__item-1 {
@@ -386,7 +386,7 @@ footer{
     height: 136px;
     margin-left: 5px;
     margin-top: 20px;
-    background: url(../img/backgraund-effect.svg);
+    background: url(./img/backgraund-effect.svg);
 }
 .section-stages__item-2 {
     background-color: #f5f2e8;
@@ -395,7 +395,7 @@ footer{
     height: 243px;
     margin-top: 5px;
     margin-left: 20px;
-    background: url(../img/backgraund-effect.svg);
+    background: url(./img/backgraund-effect.svg);
 }
 .section-stages__item-3 {
     background-color: #f5f2e8;
@@ -404,7 +404,7 @@ footer{
     height: 136px;
     margin-top: 20px;
     margin-left: 20px;
-    background: url(../img/backgraund-effect.svg);
+    background: url(./img/backgraund-effect.svg);
 }
 .section-stages__number{
     font-family: var(--font-family);
@@ -881,7 +881,7 @@ footer{
         height: 112px;
         margin-left: 20px;
         margin-top: 5px;
-        background: url(../img/backgraund-effect.svg);
+        background: url(./img/backgraund-effect.svg);
     }
     .section-stages__item-0-2 {
         background-color: #f5f2e8;
@@ -890,7 +890,7 @@ footer{
         height: 112px;
         margin-left: 20px;
         margin-top: 20px;
-        background: url(../img/backgraund-effect.svg);
+        background: url(./img/backgraund-effect.svg);
     }
     .section-stages__item-0-3 {
         background-color: #f5f2e8;
@@ -899,7 +899,7 @@ footer{
         height: 112px;
         margin-top: 5px;
         margin-left: 20px;
-        background: url(../img/backgraund-effect.svg);
+        background: url(./img/backgraund-effect.svg);
     }
     .section-stages__item-0-4 {
         background-color: #f5f2e8;
@@ -908,7 +908,7 @@ footer{
         height: 112px;
         margin-left: 20px;
         margin-top: 20px;
-        background: url(../img/backgraund-effect.svg);
+        background: url(./img/backgraund-effect.svg);
     }
     
     .section-stages__item-1 {
@@ -919,7 +919,7 @@ footer{
         margin-left: 20px;
         margin-top: 20px;
         margin-bottom: 20px;
-        background: url(../img/backgraund-effect.svg);
+        background: url(./img/backgraund-effect.svg);
     }
     .section-stages__item-2 {
         background-color: #f5f2e8;
@@ -928,7 +928,7 @@ footer{
         height: 243px;
         margin-top: 5px;
         margin-left: 20px;
-        background: url(../img/backgraund-effect.svg);
+        background: url(./img/backgraund-effect.svg);
     }
     .section-stages__item-3 {
         background-color: #f5f2e8;
@@ -937,7 +937,7 @@ footer{
         height: 136px;
         margin-top: 20px;
         margin-left: 20px;
-        background: url(../img/backgraund-effect.svg);
+        background: url(./img/backgraund-effect.svg);
     }
     .section-stages__number{
         font-family: var(--font-family);
@@ -1183,7 +1183,7 @@ footer{
         margin: 0 auto;
         min-width: 500px;
         height: 400px;
-        background: url(../img/backgraund-effect.svg);
+        background: url(./img/backgraund-effect.svg);
     }    
 
     .section-stages__slide-flex {
@@ -1696,7 +1696,7 @@ footer{
         margin: 0 auto;
         min-width: 400px;
         height: 400px;
-        background: url(../img/backgraund-effect.svg);
+        background: url(./img/backgraund-effect.svg);
     }    
 
     .section-stages__slide-flex {
@@ -1996,7 +1996,7 @@ footer{
         width: 335px;
         min-width: 335px;
         height: 300px;
-        background: url(../img/backgraund-effect.svg);
+        background: url(./img/backgraund-effect.svg);
     }    
 
     .section-stages__slide-flex {
